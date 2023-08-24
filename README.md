@@ -1,1 +1,1 @@
-# projects
+# These are my coding projects.
